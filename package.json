@@ -1,0 +1,16 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "dateformat": "^5.0.3",
+    "esm": "^3.2.25",
+    "express": "^4.17.3",
+    "http": "*",
+    "os": "^0.1.2",
+    "test": "^0.6.0"
+  }
+}
